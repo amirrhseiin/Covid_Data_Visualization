@@ -7,4 +7,4 @@ This BoxPlot shows the number of people per one million infected with covid-19 i
 
 Here is another plot that shows the number of people per one million infected with covid-19.
 
-![Screenshot 2022-10-15 024539](https://user-images.githubusercontent.com/83090039/195956595-26510666-a71f-4b27-9715-4f63704c3e36.jpg)
+![Screenshot 2022-10-15 024539](https://user-images.githubusercontent.com/83090039/195956692-e3eed239-61db-4616-822e-6d454192e25b.jpg)
